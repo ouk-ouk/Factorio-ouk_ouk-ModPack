@@ -1,0 +1,18 @@
+{
+    "name": "ouk_ouk-ModPack",
+    "version": "5.101.0",
+    "title": "Ouk_ouk's Mod Pack",
+    "author": "<NO_NAME>",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "1.1",
+    "dependencies": [
+		"base >= 1.1",
+		"HardcoreStart >= 5.101.0",
+		"PerfectlyGenericObject >= 1.101.9",
+		"RealisticOres >= 9.101.0",
+		"RealisticReactorGlow >= 1.101.7",
+		"Rohlinheatagtmuf_Hdhaotaotfnllsape-atnsasri >= 1.101.3"
+	],
+    "description": "All my mods."
+}
